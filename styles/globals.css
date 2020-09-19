@@ -14,3 +14,11 @@ a {
 * {
   box-sizing: border-box;
 }
+
+:root{
+  --raisin-black: #272838ff;
+  --maximum-blue-purple: #a4b0f5ff;
+  --copper-rose: #9b6a6cff;
+  --tea-green: #bbd8b3ff;
+  --deep-champagne: #f2d0a4ff;
+}
